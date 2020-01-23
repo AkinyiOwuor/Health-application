@@ -1,0 +1,94 @@
+body{
+    background-image:url(https://bit.ly/30DR8oP);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    border-color: chartreuse;
+    overflow-y: visible;
+}
+h2{
+    color:black;
+    text-align:center;
+    font-size:90px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+h3{
+    color:blue;
+    font-size:50px;
+    font-weight: bolder;
+    font-style: italic;
+}
+p{
+    font-size:x-large;
+    color:black;
+    font-weight: bold;
+}
+li{
+    color:black;
+    font-weight: bold;
+    font-size:x-large;
+}
+#topnav a{
+    font-size:5vh;
+    font-weight: bolder;
+    text-align: right;
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 10px;
+    padding top:32px;
+    text-decoration:none;
+}
+img{
+    float: auto;
+}
+#topnav>a:hover{
+    background-color: yellow;
+}
+#topnav{
+    overflow: hidden;
+    text-align: right;
+    margin-bottom: 0em;
+    padding: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    position: relative;
+}
+#topnav h1{
+    text-align: center;
+}
+.two{
+    float: right;
+}
+.four{
+    float:right;
+}
+.six{
+    float:right;
+    padding: 2px;
+}
+.seven{
+    float: left;
+   
+}
+.important{
+    float:right;
+}
+
+
+#services{
+    padding-bottom: 1px;
+    padding-right: 1px;
+    justify-content: space-evenly;
+    clear: right;
+}
+.one{
+    float:center;
+}
+footer{
+bottom: 0;
+width: 100%;
+height: 100px;
+padding: 12px;
+font-size: 20px;
+}
